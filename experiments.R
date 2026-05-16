@@ -312,7 +312,7 @@ beta_ls <- function(samp, a, b, tol=0.1){
 }
 
 ################################################################################
-# alternative scheme 1: arrivals during service (ads)
+# alternative scheme 1 - arrivals during service (ads)
 ################################################################################
 
 ads_mle_p <- function(ads_samp, tol = 1e-3){
@@ -478,7 +478,7 @@ p_lq <- c(0.1, 0.2, 0.5, 0.7, 0.8, 0.85) # lq up to 5
 p_ls <- c(0.1, 0.2, 0.5, 0.7, 0.8, 0.83) # ls up to 5
 tol <- 0.1 # only for lq and ls
 n <- c(10, 20, 50, 100, 200, 500)
-rep <- 3
+rep <- 1000
 
 # maximum likelihood
 sim_mle_p <- monte_carlo_tab(p, n, rep, mle_p)
