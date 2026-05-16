@@ -29,7 +29,7 @@ We address the estimation of performance measures in single-server Markovian que
 
 ## Reproducibility
 
-To reproduce the results reported in the paper:
+To reproduce the results reported in the article:
 
 1. Run:
 
