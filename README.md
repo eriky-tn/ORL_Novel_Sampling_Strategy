@@ -45,12 +45,35 @@ source("plots.R")
 
 ## Citation
 
-If you use this code in your research, please cite:
+If you use this repository in academic work, please cite the associated manuscript and the software repository.
 
-Gomes, E.S., Cruz, F.R.B. (2026).  
-*Novel sampling strategy for inference in M/M/1 queues*.  
-Operations Research Letters, 67, 107461.  
-https://doi.org/10.1016/j.orl.2026.107461
+## BibTeX for the manuscript
+
+```bibtex
+@article{Gomes2026,
+  author       = {Gomes, E. S. and Cruz, Frederico R. B.},
+  title        = {Novel sampling strategy for inference in {M/M/1} queues},
+  journal      = {Operations Research Letters},
+  volume       = {67},
+  pages        = {107461},
+  year         = {2026},
+  doi          = {10.1016/j.orl.2026.107461}
+}
+```
+
+## BibTeX for the software repository
+
+```bibtex
+@misc{Gomes2026repo,
+  author       = {Gomes, Eriky S. and Cruz, Frederico R. B.},
+  title        = {{ORL\_Novel\_Sampling\_Strategy}: Source code for {Novel sampling strategy for inference in {M/M/1} queues}},
+  year         = {2026},
+  version      = {1.0.0},
+  publisher    = {GitHub},
+  howpublished = {\url{https://github.com/eriky-tn/ORL\_Novel\_Sampling\_Strategy}},
+  note         = {Released: 2026-03-14}
+}
+```
 
 ## License
 
