@@ -65,7 +65,7 @@ If you use this repository in academic work, please cite the associated manuscri
 
 ```bibtex
 @misc{Gomes2026repo,
-  author       = {Gomes, Eriky S. and Cruz, Frederico R. B.},
+  author       = {Gomes, E. S. and Cruz, Frederico R. B.},
   title        = {{ORL\_Novel\_Sampling\_Strategy}: Source code for {Novel sampling strategy for inference in {M/M/1} queues}},
   year         = {2026},
   version      = {1.0.0},
