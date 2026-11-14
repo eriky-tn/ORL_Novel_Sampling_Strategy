@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated manuscript and this repository."
+title: "ORL_Novel_Sampling_Strategy: Source code for Novel sampling strategy for inference in M/M/1 queues"
+authors:
+- family-names: "Gomes"
+  given-names: "Eriky S."
+- family-names: "Cruz"
+  given-names: "Frederico R. B."
+version: 1.0.0
+date-released: 2026-03-14
+url: "https://github.com/eriky-tn/ORL_Novel_Sampling_Strategy"
+abstract: "R code and simulation results supporting the manuscript Novel sampling strategy for inference in M/M/1 queues."
+keywords:
+- Queueing
+- M/M/1 queue
+- M/Er/1 queue
+- Maximum likelihood estimation
+- Bayesian inference
+license: MIT
