@@ -51,7 +51,7 @@ If you use this repository in academic work, please cite the associated manuscri
 
 ```bibtex
 @article{Gomes2026,
-  author       = {Gomes, E. S. and Cruz, Frederico R. B.},
+  author       = {Eriky S. Gomes and Frederico R. B. Cruz},
   title        = {Novel sampling strategy for inference in {M/M/1} queues},
   journal      = {Operations Research Letters},
   volume       = {67},
@@ -65,7 +65,7 @@ If you use this repository in academic work, please cite the associated manuscri
 
 ```bibtex
 @misc{Gomes2026repo,
-  author       = {Gomes, E. S. and Cruz, Frederico R. B.},
+  author       = {Eriky S. Gomes and Frederico R. B. Cruz},
   title        = {{ORL\_Novel\_Sampling\_Strategy}: Source code for {Novel sampling strategy for inference in {M/M/1} queues}},
   year         = {2026},
   version      = {1.0.0},
